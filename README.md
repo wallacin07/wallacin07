@@ -19,5 +19,6 @@
   <a href="https://www.linkedin.com/in/wallace-abreu-da-silva-948304244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-  ![Wallacin07's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallacin07\&rank_icon=github)
+  ![Wallacin07's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallacin07\&rank_icon=github\&theme=dark#gh-dark-mode-only)
+  ![Wallacin07's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallacin07\&rank_icon=github\&theme=default#gh-light-mode-only)
 </div>
